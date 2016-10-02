@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Note.ly</string>
+    <string name="intro">Note.ly is personal note taking application with support to add users in SQL database.</string>
+</resources>
